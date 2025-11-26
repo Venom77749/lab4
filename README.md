@@ -1,4 +1,4 @@
-## Лысков Никита ИТ-7, Вариант 11
+## Лысков Никита ИТ-8, Вариант 11
 
 ### 1.11
 <img width="644" height="80" alt="image" src="https://github.com/user-attachments/assets/0f7d3547-a77f-4723-b8d5-96bc70411db7" />
